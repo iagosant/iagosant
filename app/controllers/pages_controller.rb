@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
 
 def home
-  byebug
+  # byebug
   @bio = Instagram.user["bio"]
   @full_name = Instagram.user["full_name"]
   @profile_pic = Instagram.user['profile_picture']
