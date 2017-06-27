@@ -4242,7 +4242,7 @@ nav .button-collapse i {
 
 nav .brand-logo {
   position: absolute;
-  color: transparent;
+  color: #B2BBBB;
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
@@ -4310,7 +4310,7 @@ nav ul li.active {
 nav ul a {
   transition: background-color .3s;
   font-size: 1rem;
-  color: transparent;
+  color: #B2BBBB;
   display: block;
   padding: 0 15px;
   cursor: pointer;
