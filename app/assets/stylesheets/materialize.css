@@ -7039,7 +7039,7 @@ input[type=range]::-moz-range-thumb {
 }
 
 input[type=range]:-moz-focusring {
-  outline: 1px solid
+  outline: 1px solid;
   outline-offset: -1px;
 }
 
